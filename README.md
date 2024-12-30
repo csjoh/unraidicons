@@ -1,2 +1,2 @@
 # unraidicons
-Custom VM icons for unRAID.
+Custom VM and Docker icons for unRAID.
